@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Doonidoon
+- I want to learning code javascript and python 
